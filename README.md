@@ -1,5 +1,4 @@
 # ibis
-iFixit repair tray visual tracker for particular screws and parts 
+_Gridtray visual tracker and annotator for particular bits and bobs_
 
-<img width="740" height="491" alt="image" src="https://github.com/user-attachments/assets/cb35058e-0874-48f3-93c3-7be82a3b528f" />
-
+![ibis](https://github.com/user-attachments/assets/e9baa57e-819a-4b43-a972-6ba55f2cc61a)
